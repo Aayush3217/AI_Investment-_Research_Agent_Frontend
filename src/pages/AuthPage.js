@@ -96,7 +96,7 @@ export default function AuthPage() {
         </div>
 
         <p style={{ textAlign: 'center', color: 'var(--text-muted)', fontSize: '12px', marginTop: '24px' }}>
-          Powered by Claude + LangChain
+          
         </p>
       </div>
     </div>
